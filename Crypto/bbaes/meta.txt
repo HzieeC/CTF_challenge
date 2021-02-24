@@ -1,0 +1,6 @@
+<question>Solve this AES
+<title>bbaes
+<score>100
+<flag>xgctf{WOW_Y0u_s0lvE_The_bBa1s}
+<附件>附件/bbaes.py
+

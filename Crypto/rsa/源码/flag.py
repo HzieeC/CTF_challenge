@@ -1,0 +1,1 @@
+flag = "xgctf{r4a_1s_4o_1ntere4Ting}"

@@ -1,0 +1,5 @@
+<question>加密的压缩包
+<title>加密的压缩包
+<score>100
+<flag>xgctf{crc32_09ec43d30f}
+<附件>附件/challenge.zip

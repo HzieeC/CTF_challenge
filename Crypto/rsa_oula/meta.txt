@@ -1,0 +1,6 @@
+<question>简单的RSA加密,找解密脚本解密的小伙伴注意题目标题哦~~
+<title>rsa_oula
+<score>150
+<flag>xgctf{Euler_HE_Is_A_Teach4r_f0R_3very1}
+<附件>附件/题目.zip
+

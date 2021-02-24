@@ -1,0 +1,5 @@
+<question>取证
+<title>内存取证
+<score>100
+<flag>xgctf{Volatility_1s_so_ea4y}
+<附件>附件/imageCopies.zip

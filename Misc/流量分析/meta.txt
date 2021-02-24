@@ -1,0 +1,5 @@
+<question>流量分析
+<title>流量分析
+<score>100
+<flag>xgctf{wire4hark_&_SqlInject}
+<附件>附件/pcap.pcap

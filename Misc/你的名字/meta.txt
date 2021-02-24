@@ -1,0 +1,5 @@
+<question>你的名字
+<title>你的名字
+<score>100
+<flag>xgctf{foremost_e766e}
+<附件>附件/你的名字.jpg

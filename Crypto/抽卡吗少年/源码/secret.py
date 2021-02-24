@@ -1,0 +1,1 @@
+flag="xgctf{ohhhhhh!_G01den_Le9end}"

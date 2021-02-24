@@ -1,0 +1,1 @@
+flag="xgctf{f16c0a6f2f8d61be1e86e6e64026a05c}"

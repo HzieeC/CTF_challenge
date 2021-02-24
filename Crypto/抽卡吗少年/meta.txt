@@ -1,0 +1,5 @@
+<question>来抽卡吧少年，连续抽中100张SSR来证明自己的欧皇属性。
+<title>抽卡吗少年
+<score>200
+<flag>xgctf{ohhhhhh!_G01den_Le9end}
+<附件>附件/draw_system.py

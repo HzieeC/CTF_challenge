@@ -1,0 +1,5 @@
+<question>nc 127.0.0.1:1234
+<title>babyDsa
+<score>200
+<flag>xgctf{y0u_401ve_The_b1b1_D4a}
+<附件>附件/babyDsa.py

@@ -1,0 +1,5 @@
+<question>听说你是信工福尔摩斯？
+<title>信工福尔摩斯
+<score>100
+<flag>xgctf{Y0UARE4OG0ODXG4TF3R}
+<附件>附件/pcap.pcapng
