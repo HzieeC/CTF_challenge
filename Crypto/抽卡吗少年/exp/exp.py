@@ -29,7 +29,7 @@ def get_ssr(sh,key):
             sh.sendafter(b'Please enter your choice by 0-15:', str(int(j,16)).encode())
 if __name__ == '__main__':
     add = "0.0.0.0"
-    port = 9999
+    port = 9998
     sh = remote(add,port)
     key=guess(sh)
     get_ssr(sh,key)

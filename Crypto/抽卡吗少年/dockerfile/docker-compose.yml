@@ -1,10 +1,10 @@
 version: '2.2' # 表示该 Docker-Compose 文件使用的是 Version 2 file
 services:
-  target1:  # 指定服务名称
-    build: ./target1
+  crysys1:  # 指定服务名称
+    build: ./crysys1
     restart: always
     ports:
-      - 9999:9999
+      - 9998:9999
     mem_limit: 512m
     cpus: 1
     pids_limit: 4096
