@@ -1,7 +1,6 @@
 # CTF_challenge
-解题视频url为bilibili链接
-视频都录完传网盘
-github单个文件最大100M
+解题视频bilibili链接：https://space.bilibili.com/387776936  
+网盘： 链接: https://pan.baidu.com/s/1XLShK4ZrVcghs6FPbQ-sSA  密码: w7gv  
 ## Crypto
 
 - [x] Caesar
@@ -28,10 +27,10 @@ github单个文件最大100M
     - [x] 题目
     - [x] wp
     - [x] 解题视频
-- [ ] 抽卡第二弹
+- [x] 抽卡第二弹
     - [x] 题目
-    - [ ] wp
-    - [ ] 解题视频
+    - [x] wp
+    - [x] 解题视频
 ## Misc
 
 - [x] 加密的压缩包

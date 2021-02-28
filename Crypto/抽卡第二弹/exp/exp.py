@@ -4,10 +4,6 @@ from pwn import *
 from Crypto.Util.number import *
 from fractions import Fraction
 import base64
-# 输入为靶机 IP 和端口以及要验证的 flag
-HOST = sys.argv[1]
-PORT = sys.argv[2]
-FLAG = sys.argv[3]
 
 def get_treasure(sh):
     sh.sendafter(b'4. exit\n>', "3".encode())
@@ -51,9 +47,7 @@ def exp(ip, port):
     return long_to_bytes(flag)
 
 if __name__ == '__main__':
+    HOST="0.0.0.0"
+    PORT=9999
     flag = exp(HOST, PORT)
-    flag=flag[6:-1]
-    # 比较得出的 flag 是否是想要的 flag
     print("flag is :{}".format(flag))
-    assert flag == FLAG
-    print("Pass!")
